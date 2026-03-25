@@ -1,0 +1,17 @@
+C:\Users\theep\source\repos\MMD-er\MMD-er\bin\Debug\net10.0\MMD-er.exe
+C:\Users\theep\source\repos\MMD-er\MMD-er\bin\Debug\net10.0\MMD-er.deps.json
+C:\Users\theep\source\repos\MMD-er\MMD-er\bin\Debug\net10.0\MMD-er.runtimeconfig.json
+C:\Users\theep\source\repos\MMD-er\MMD-er\bin\Debug\net10.0\MMD-er.dll
+C:\Users\theep\source\repos\MMD-er\MMD-er\bin\Debug\net10.0\MMD-er.pdb
+C:\Users\theep\source\repos\MMD-er\MMD-er\bin\Debug\net10.0\TagLibSharp.dll
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.csproj.AssemblyReference.cache
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.AssemblyInfoInputs.cache
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.AssemblyInfo.cs
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.csproj.CoreCompileInputs.cache
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.csproj.Up2Date
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.dll
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\refint\MMD-er.dll
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.pdb
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\MMD-er.genruntimeconfig.cache
+C:\Users\theep\source\repos\MMD-er\MMD-er\obj\Debug\net10.0\ref\MMD-er.dll

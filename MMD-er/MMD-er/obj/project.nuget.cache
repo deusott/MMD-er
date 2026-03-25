@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2YD6VOEmLI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theep\\source\\repos\\MMD-er\\MMD-er\\MMD-er.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theep\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
